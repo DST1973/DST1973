@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'DSTandfriends',
+  domain: 'www.notion.so/DSTandfriends-45996b00688e4544a1295f5f6259f065',
+  author: 'DST1973',
 
   // open graph metadata (optional)
   description: 'Example site description',
