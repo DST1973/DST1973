@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '45996b00688e4544a1295f5f6259f065',
+  rootNotionPageId: 'b0caa1dbe329402e98f057d84127e0ea',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'DSTandfriends',
-  domain: 'www.notion.so/DSTandfriends-45996b00688e4544a1295f5f6259f065',
+  name: 'DST',
+  domain: 'https://shiny-basil-126.notion.site/b0caa1dbe329402e98f057d84127e0ea',
   author: 'DST1973',
 
   // open graph metadata (optional)
